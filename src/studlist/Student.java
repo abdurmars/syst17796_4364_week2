@@ -6,7 +6,7 @@
 package studlist;
 
 /**
- *
+ * This class has all required Student attributes
  * @author Slikm
  */
 public class Student {
