@@ -7,7 +7,8 @@ package studlist;
 
 /**
  * This class has all required Student attributes
- * @author Slikm
+ * 
+ * @author Mohammed Siddqui
  */
 public class Student {
     private String name;
