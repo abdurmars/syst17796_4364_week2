@@ -12,6 +12,7 @@ package studlist;
 public class Student {
     private String name;
     private int id;
+    private String address;
 
     /**
      * @return the name
@@ -39,5 +40,19 @@ public class Student {
      */
     public void setId(int id) {
         this.id = id;
+    }
+
+    /**
+     * @return the address
+     */
+    public String getAddress() {
+        return address;
+    }
+
+    /**
+     * @param address the address to set
+     */
+    public void setAddress(String address) {
+        this.address = address;
     }
 }
