@@ -13,6 +13,7 @@ public class Student {
     private String name;
     private int id;
     private String address;
+    String programName;
 
     /**
      * @return the name
